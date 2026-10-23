@@ -10,10 +10,6 @@ html:not(.mud-bootstrap-theme) .mud {
   --brand: var(--primary, #5e72e4);
   --brand-subtle: color-mix(in srgb, var(--primary, #5e72e4) 9%, white);
   --on-brand: #fff;
-  --success: var(--success, #2dce89);
-  --warning: var(--warning, #fb6340);
-  --danger: var(--danger, #f5365c);
-  --info: var(--info, #11cdef);
   --radius-base: .25rem;
   --app-shadow-sm: 0 2px 6px rgba(50, 50, 93, .08);
   color: var(--text);
